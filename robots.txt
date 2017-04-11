@@ -1,4 +1,5 @@
 User-agent: *
 Crawl-delay: 10
+Disallow: /.git/
 Disallow: /scripts/
 Disallow: /README.md
