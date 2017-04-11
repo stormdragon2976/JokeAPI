@@ -17,7 +17,7 @@ $type = addslashes($_GET['type']);
 }
 else
 {
-$type = "jokes";
+$type = "joke";
 }
 if ($api == "false")
 { ?>
@@ -40,9 +40,11 @@ else
 $joke = "I was unable to find any jokes  of type $type.";
 }
 // Return a random joke from the list:
-echo "$joke";
-if ($api == "false")
-{ ?>
+switch ("$api")
+{
+default:
+echo nl2br($joke);
+?>
 </p>
 </body>
 </html>
