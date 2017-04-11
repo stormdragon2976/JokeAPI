@@ -2,5 +2,7 @@
 // Email address you want new jokes sent to, leave blank to disable this feature:
 $email = "";
 // Title of your site:
-$title = "Jokes";
+$title = "Jokes API Site";
+// The type of joke you want to be the default. Check scripts directory for file names to use here:
+$type = "joke";
 ?>

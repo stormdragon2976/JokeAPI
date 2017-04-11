@@ -15,10 +15,6 @@ if (isset($_GET['type']))
 {
 $type = addslashes($_GET['type']);
 }
-else
-{
-$type = "joke";
-}
 if ($api == "false")
 { ?>
 <!DOCTYPE html>
