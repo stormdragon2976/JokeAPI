@@ -3,7 +3,7 @@ $jokeList = array(
 "How do fish get high? Seaweed.",
 "What do you call a chicken crossing the road? Poultry in moton.",
 "Why did the house go to the doctor? It was having window panes.",
-"What is the difference between erotic and kinky? Erotic is using a feather.... kinky is using the whole  feather.",
+"What is the difference between erotic and kinky? Erotic is using a feather.... kinky is using the whole  chicken.",
 "Why was ten scared of seven? Because seven ate nine.",
 "Did you hear about the drunk frog? He barley hops!",
 "What's the difference between a pygmy tribe and a high school girls track team? The pygmy tribe is a bunch of   cunning little runts.",
