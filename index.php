@@ -37,7 +37,29 @@ require_once("scripts/$type.php");
 }
 else
 {
+if (($type == "all") || ($type == "random"))
+{
+//Make an array to hold directory list.
+$jokeFiles = array();
+//Create a handler for the directory.
+$handler = opendir("scripts");
+while ($file = readdir($handler))
+{
+//If file isn't this directory or its parent, add it to the results.
+if (($file != ".") && ($file != "..") && (substr($file, -4) == ".php"))
+{
+$jokeFiles[] = $file;
+}
+}
+//Close the handler.
+closedir($handler);
+// Now, Run random joke file from the scripts directory 
+require_once ("scripts/" . $jokeFiles[array_rand($jokeFiles)]);
+}
+else
+{
 $joke = "I was unable to find any jokes  of type $type.";
+}
 }
 // Return a random joke from the list:
 switch ("$api")
