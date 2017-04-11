@@ -128,4 +128,6 @@ He felt his presents.",
 "I want a job cleaning mirrors.
 It's something I could really see myself doing.",
 );
+// Set the joke variable to a random joke:
+$joke = $jokeList[array_rand($jokeList)];
 ?>

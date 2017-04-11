@@ -1,5 +1,7 @@
 <?php
 ob_start();
+// Load settings:
+require_once ("scripts/settings.php");
 // Get variables
 if (isset($_GET['api']))
 {
@@ -23,7 +25,7 @@ if ($api == "false")
    <html>
 <head>
 <meta charset="UTF-8">
-<title><?php $title ?></title>
+<title><?php echo "$title"; ?></title>
 </head>
 <body> 
 <p>
@@ -35,7 +37,7 @@ default:
 require_once("scripts/jokes.php");
 }
 // Return a random joke from the list:
-echo $jokeList[array_rand($jokeList)];
+echo "$joke";
 if ($api == "false")
 { ?>
 </p>
