@@ -52,6 +52,7 @@ $jokeList = array(
 "I used to be a banker, but I lost interest.",
 "How do you make holy water? Boil the hell out of it.",
 "Why are pirates called pirates? Because they arrr!",
+"What do you call two Mexicans playing basketball? Juan on Juan.",
 "What does a pirate pay for his corn? A buccaneer!",
 "Why do seagulls fly over the sea? Because they aren't bay-gulls!",
 "What do you call a fish with no eyes? fsh!",
