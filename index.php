@@ -17,7 +17,7 @@ $type = addslashes($_GET['type']);
 }
 else
 {
-$type = "default";
+$type = "jokes";
 }
 if ($api == "false")
 { ?>
@@ -31,10 +31,13 @@ if ($api == "false")
 <p>
 <?php }
 // this makes for an ever expanding joke catalog:
-switch ("$type")
+if (file_exists("scripts/$type.php"))
 {
-default:
-require_once("scripts/jokes.php");
+require_once("scripts/$type.php");
+}
+else
+{
+$joke = "I was unable to find any jokes  of type $type.";
 }
 // Return a random joke from the list:
 echo "$joke";
