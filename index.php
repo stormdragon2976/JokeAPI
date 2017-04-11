@@ -1,7 +1,7 @@
 <?php
 ob_start();
 // Load settings:
-require_once ("scripts/settings.php");
+require_once ("settings.php");
 // Get variables
 if (isset($_GET['api']))
 {
