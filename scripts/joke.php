@@ -6,6 +6,11 @@ Seaweed.",
 Poultry in moton.",
 "Why did the house go to the doctor?
 It was having window panes.",
+'Confucius say, "Man who smoke pot will choke on handle."',
+'Confucius say, "Man who lay woman on ground get peace on earth."',
+'Confucius say, "Elevator smell different to a midget."',
+'Confucius say, "Man who jump off cliff jump to conclusion."',
+'Confucius say, "Man who fart in church sit in own pew."',
 "What is the difference between erotic and kinky?
 Erotic is using a feather.... kinky is using the whole  chicken.",
 "Why was ten scared of seven?
@@ -14,6 +19,23 @@ Because seven ate nine.",
 He barley hops!",
 "What's the difference between a pygmy tribe and a high school girls track team?
 The pygmy tribe is a bunch of   cunning little runts.",
+'Confucius say, "Wise man does not play leapfrog with unicorn."',
+'Confucius say, "House without toilet is uncanny."',
+'Confucius say, "Man who put cream in tart not always baker."',
+'Confucius say, "A hand in the bush is worth two on the bird."',
+'Confucius say, "Man who sleep on bed of nails is holy man."',
+'Confucius say, "Man who run behind car get exhausted."',
+'Confucius say, "Woman who rides bicycle peddles ass all over town."',
+'Confucius say, "Man who cooks carrots and peas in the same pot is very unhygienic."',
+'Confucius say, "Woman who fly upside down have hairy crack up."',
+'Confucius say, "Man who pee through screen strain himself."',
+'Confucius say, "Man who enter plain sideways going to Bangkok"',
+"Confucius say, \"Man who fishes in other man's well often catch crabs.\"",
+'Confucius say, "Man who drinks to steady nerves, may find self too steady to move."',
+'Confucius say, "Virginity like bubble: one prick, all gone."',
+'Confucius say, "It take many nails to build crib but only one screw to fill it."',
+'Confucius say, "Baseball is wrong. Man with four balls cannot walk."',
+'Confucius say, "A streaker is unsuited for his work."',
 "Why didn't the number 4 get into the nightclub?
 Because he is 2 square.",
 "What's the difference between roast beef and pea soup?
@@ -30,6 +52,9 @@ One says: 'Dam!'",
 Ground beef",
 "What do get if you cross a snowman with a vampire?
 Frostbite!",
+'Confucius say, "Man who fight with wife all day get no piece at night."',
+'Confucius say, "Woman who put detergent on top shelf soon jump for Joy."',
+'Confucius say, "Foolish man give wife grand piano for anaversary, wise man give her upright organ!"',
 "What did the blanket say as it fell off the bed?
 Oh sheet!",
 "Why was the javascript developer sad?
@@ -76,6 +101,13 @@ A fsh.",
 Lean beef.",
 "How did the hipster burn the roof of his mouth?
 He ate the pizza before it was cool.",
+'Confucius say, "Secratary not permanant fixture until screwed on desk."',
+'Confucius say, "Man who go to bed with hard problem wake up with solution in hand."',
+'Confucius say, "Naked man fears no pick pocket."',
+'Confucius say, "Man who keep feet firmly planted on ground have trouble putting on pants."',
+'Confucius say, "Dumb man climb tree to get cherry. Wise man spread limbs."',
+'Confucius say, "Man who try to out run car get tired."',
+'Confucius say, "Man who go to bed with itchy butt wake up with stinky finger."',
 "Did you hear about the Mexican train killer?
  He had locomotives",
 "I wondered why the baseball was getting bigger.
@@ -113,6 +145,16 @@ Two monkeys dancing with an elephant.",
 Boobies!",
 "Why do mermaid wear sea-shells?
 Because b-shells are too small.",
+'Confucius say, "Man who sits under tree is shady character."',
+'Confucius say, "Man who sit on hot stove soon rise again."',
+'Confucius say, "Man who read woman like book prefer Braille."',
+'Confucius say, "Man who eat many prunes get good run for money."',
+'Confucius say, "Wife who put husband in doghouse soon find him in cathouse."',
+'Confucius say, "A bird in hand makes it hard to blow nose."',
+'Confucius say, "All men eat, but Fu Manchu."',
+'Confucius say, "Man who sit on tack get point."',
+'Confucius say, "Man with hand in bush not necessarily trimming shrubs."',
+'Confucius say, "Man who learn to masturbate come in handy."',
 "Why couldn't the kid see the pirate movie?
 Because it was rated arrr!",
 "What do you get when you cross a chicken with a skunk?
