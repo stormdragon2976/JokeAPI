@@ -24,6 +24,7 @@ if ($api == "false")
 <title><?php echo "$title"; ?></title>
 </head>
 <body> 
+<h1>Joke</h1>
 <p>
 <?php }
 // this makes for an ever expanding joke catalog:
@@ -74,6 +75,10 @@ default:
 echo nl2br($joke);
 ?>
 </p>
+<hr />
+<ul>
+<li><a href="https://github.com/stormdragon2976/JokeAPI">Get your own instance of the Joke API</a></li>
+</ul>
 </body>
 </html>
 <?php }
