@@ -67,6 +67,9 @@ case "txt":
 case "text":
 echo $joke;
 break;
+case "xml":
+echo xmlrpc_encode($joke);
+break;
 default:
 echo nl2br($joke);
 ?>
