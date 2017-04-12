@@ -20,6 +20,7 @@ if ($api == "false")
 <!DOCTYPE html>
    <html>
 <head>
+<META CHARSET="UTF-8"> 
 <meta charset="UTF-8">
 <title><?php echo "$title"; ?></title>
 </head>
