@@ -60,6 +60,9 @@ $joke = "I was unable to find any jokes  of type $type.";
 // Return a random joke from the list:
 switch ("$api")
 {
+case "json":
+echo json_encode($joke);
+break;
 case "txt":
 case "text":
 echo $joke;
