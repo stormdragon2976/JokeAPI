@@ -60,6 +60,10 @@ $joke = "I was unable to find any jokes  of type $type.";
 // Return a random joke from the list:
 switch ("$api")
 {
+case "txt":
+case "text":
+echo $joke;
+break;
 default:
 echo nl2br($joke);
 ?>
