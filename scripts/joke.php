@@ -9,6 +9,20 @@ It was having window panes.",
 'Confucius say, "Man who smoke pot will choke on handle."',
 'Confucius say, "Man who lay woman on ground get peace on earth."',
 'Confucius say, "Elevator smell different to a midget."',
+"The value of a #2 pencil in a Catholic education.
+Little Susie was not the best student in Catholic School . Usually she slept through the class.
+One day her teacher, a Nun, called on her while she was sleeping.
+'Tell me Susie, who created the universe?'
+When Susie didn't stir, little Johnny who was her friend sitting behind her, took his pencil and jabbed her in the rear.
+'God Almighty!' shouted Susie.
+The Nun said, 'Very good' and continued teaching her class..
+A little later the Nun asked Susie, 'Who is our Lord and Savior?'
+But Susie didn't stir from her slumber. Once again, Johnny came to her rescue and stuck her in the butt.
+'Jesus Christ!!!' shouted Susie.
+And the Nun once again said, 'Very good,' and Susie fell back asleep.
+The Nun asked her a third question...'What did Eve say to Adam after she had her twenty-third child?'
+Again, Johnny came to the rescue. This time Susie jumped up and shouted, 'If you stick that damn thing in me one more time, I'll break it in half!'
+*The nun fainted.*",
 'Confucius say, "Man who jump off cliff jump to conclusion."',
 'Confucius say, "Man who fart in church sit in own pew."',
 "What is the difference between erotic and kinky?
