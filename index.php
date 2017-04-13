@@ -15,28 +15,7 @@ if (isset($_GET['type']))
 {
 $type = addslashes($_GET['type']);
 }
-if ($api == "false")
-{ ?>
-<!DOCTYPE html>
-   <html>
-<head>
-<meta charset="UTF-8">
-<title><?php echo "$title"; ?></title>
-</head>
-<body> 
-<h1>Joke</h1>
-<p>
-<?php }
-// this makes for an ever expanding joke catalog:
-if (file_exists("scripts/$type.php"))
-{
-require_once("scripts/$type.php");
-}
-else
-{
-if (($type == "all") || ($type == "random"))
-{
-//Make an array to hold directory list.
+//Make an array to hold file list so we can generate links for joke categories.
 $jokeFiles = array();
 //Create a handler for the directory.
 $handler = opendir("scripts");
@@ -50,7 +29,35 @@ $jokeFiles[] = $file;
 }
 //Close the handler.
 closedir($handler);
-// Now, Run random joke file from the scripts directory 
+if ($api == "false")
+{ ?>
+<!DOCTYPE html>
+   <html>
+<head>
+<meta charset="UTF-8">
+<title><?php echo "$title"; ?></title>
+</head>
+<body> 
+<h1>Categories</h1>
+<ul><?php
+foreach ($jokeFiles as $i)
+{ ?>
+<li><a href="./index.php/?type=<?php echo substr($i, 0, -4); ?>"><?php echo substr($i, 0, -4); ?></a>
+<?php }
+?></ul>
+<h1>Joke</h1>
+<p>
+<?php }
+// this makes for an ever expanding joke catalog:
+if (file_exists("scripts/$type.php"))
+{
+require_once("scripts/$type.php");
+}
+else
+{
+if (($type == "all") || ($type == "random"))
+{
+// Run random joke file from the scripts directory 
 require_once ("scripts/" . $jokeFiles[array_rand($jokeFiles)]);
 }
 else
