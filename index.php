@@ -39,7 +39,8 @@ if ($api == "false")
 </head>
 <body> 
 <h1>Categories</h1>
-<ul><?php
+<ul>
+<li><a href="<?php echo $_SERVER['PHP_SELF']; ?>?type=random">random</a><?php
 foreach ($jokeFiles as $i)
 { ?>
 <li><a href="<?php echo $_SERVER['PHP_SELF']; ?>?type=<?php echo substr($i, 0, -4); ?>"><?php echo substr($i, 0, -4); ?></a>
