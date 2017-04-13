@@ -42,7 +42,7 @@ if ($api == "false")
 <ul><?php
 foreach ($jokeFiles as $i)
 { ?>
-<li><a href="<?php echo $_SERVER['PHP_SELF']; ?>/?type=<?php echo substr($i, 0, -4); ?>"><?php echo substr($i, 0, -4); ?></a>
+<li><a href="<?php echo $_SERVER['PHP_SELF']; ?>?type=<?php echo substr($i, 0, -4); ?>"><?php echo substr($i, 0, -4); ?></a>
 <?php }
 ?></ul>
 <h1>Joke</h1>
