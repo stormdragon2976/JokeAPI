@@ -85,6 +85,11 @@ echo nl2br($joke);
 </p>
 <hr />
 <ul>
+<?php
+if (isset($gs))
+{ ?>
+<li><a href="<?php echo $gs; ?>">Follow me on GNU Social</a></li>
+<?php } ?>
 <li><a href="https://github.com/stormdragon2976/JokeAPI">Get your own instance of the Joke API</a></li>
 </ul>
 </body>
