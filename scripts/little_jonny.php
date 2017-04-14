@@ -1,3 +1,4 @@
+<?php
 $jokeList = array(
 "Little April was not the best student in Sunday school.
 Usually she slept through the class.
