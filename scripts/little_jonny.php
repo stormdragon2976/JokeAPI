@@ -94,5 +94,5 @@ Now I know she doesn't like this, so I pushed it back in!\""
 );
 
 // Select a random joke from the array.
-$joke = array_rand($jokeList);
+$joke = $jokeList[array_rand($jokeList)];
 ?>
