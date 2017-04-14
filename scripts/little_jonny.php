@@ -66,7 +66,7 @@ After clearing her throat, she asked what possible moral there could be to this 
 \"Well,\" Johnny replied, \"Don't fuck with Uncle Ted when he's been drinking.\"",
 "One day, Little Johnny saw his grandpa smoking his cigarettes. Little Johnny asked, \"Grandpa, can I smoke some of your cigarettes?\" His grandpa replied, \"Can your penis reach your asshole?\" \"No\", said Little Johnny. His grandpa replied, \"Then you're not old enough.\"
 
-The next day, Little Johnny saw his grandpa drinking beer. He asked, \"Grandpa, can I drink some of your beer?\" His grandpa replied, \"Can your penis reach your asshole?\" \"No\" said Little Johhny. \"Then you're not old enough.\" his grandpa replied.
+The next day, Little Johnny saw his grandpa drinking beer. He asked, \"Grandpa, can I drink some of your beer?\" His grandpa replied, \"Can your penis reach your asshole?\" \"No\" said Little Johnny. \"Then you're not old enough.\" his grandpa replied.
 
 The next day, Little Johnny was eating cookies. His grandpa asked, \"Can I have some of your cookies?\" Little Johnny replied, \"Can your penis reach your asshole?\" His grandpa replied, \"It most certainly can!\" Little Johnny replied, \"Then go fuck yourself.",
 "A teacher asks her class, \"What do you want to be when you grow up?\"
