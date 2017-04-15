@@ -5,6 +5,7 @@ $knock = array(
 "smellma" => "Smellma poo!",
 "owls go" => "Thats right! Owls go who!",
 "claire" => "Claire the way, I'm coming in!",
+"dwayne" => "Dwayne the bathtub, I'm dwowning!",
 "cows go" => "No silly, cows go moo!",
 "boo" => "It's ok, don't cry!",
 "willis" => "Willis dick fit in your mouth?",
