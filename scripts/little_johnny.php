@@ -39,8 +39,82 @@ The kids easily identified the taste of cherries, lemons and mint, but when the 
 I'll give you a hint,\" said the teacher. 
 \"It's something your mommy probably calls your daddy all the time.\"
 Instantly, Little Johnny coughed his onto the floor and shouted, \"Quick! 
-Spit'em out! 
+Spit 'em out! 
 They're assholes!\"",
+"Fred and Mary got married, but can't afford a honeymoon, so they go back to Fred's parent's home for their first night together. 
+In the morning, Johnny, Fred's little brother, gets up and has his breakfast. 
+As he is going out of the door to go to school, he asks his Mom if Fred and Mary are up yet.
+She replies, \"No\". 
+Johnny asks, \"Do you know what I think?\"
+His mom replies, \"I don't want to hear what you think! Just go to school.\"
+Johnny comes home for lunch and asks his mom, \"Are Fred and Mary up yet?\"
+She replies, \"No.\"
+Johnny says, \"Do you know what I think?\"
+His mom replies, \"Never mind what you think! 
+Eat your lunch and go back to school.\"
+After school, Johnny comes home and asks again, \"Are Fred and Mary up yet?\"
+His mom says \"No.\"
+He asks, \"Do you know what I think?\"
+His Mom replies, \"Ok, do tell me what you think?\" 
+He says: \"Last night Fred came to my room for the Vaseline and I think I gave him my airplane glue.\"",
+"Little Johnny is always being teased by the other neighborhood boys for being stupid. 
+Their favorite joke is to offer Johnny his choice between a nickel and a dime Little Johnny always takes the nickel.
+One day, after Johnny takes the nickel, a neighbor takes him aside and says, \"Johnny, those boys are making fun of you. Don't you know that a dime is worth more than a nickel, even though the nickel's bigger?\"
+Johnny grins and says, \"Well, if I took the dime, they'd stop doing it, and so far I've made $20!\"",
+"Boss: *Shouting* \"Little Johnny come to my office right now...\"
+Little Johnny: \"Yes sir\"!
+Boss : \"Little Johnny, I saw you arguing with the customer that just left. I have told you before that the customer is always right. Do you understand me?\"
+Little Johnny: \"Yes sir!, the customer is always right\".
+Boss : \"So what were you arguing about with that customer?\"
+Little Johnny: \"He said my boss is stupid and an idiot sir\"!
+Boss: \"That bustard. What did u say to him?\"
+Little Johnny: \"I told him he's right!\"",
+"A teacher said to her class, \"Right, i'm going to hold something under the desk and i want you to guess it. 
+This one is round and red.\" 
+Little Johnny's hand shot up, but he was ignored.
+\"It's a plum miss,\" said a girl. 
+\"no it's an apple, but i like your thinking. 
+The next one is oval shaped and green.\" 
+The teacher ignored Little Johnny again and a boy said, \"It's a kiwi miss.\" 
+No, it's a guana, but i like your thinking.\" 
+Little Johnny said, \" I got one miss, its stiff, about an inch long and with a red nib.\" 
+\"Johny, thats disgusting!\" shouted the teacher. \" no it's a match, but i like your thinking.\"
+Said Little Johnny.",
+"Little Johnny attended a horse auction with his father.
+He watched as his father moved from horse to horse, running his hands up and down the horse's legs and rump, and chest.
+After a few minutes, Johnny asked, \"Dad, why are you doing that?\"
+His father replied, \"Because when I'm buying horses, I have to make sure that they are healthy and in good shape before I buy. 
+Johnny, looking worried, said, \"Dad, I think the UPS guy wants to buy Mom.\"",
+"The first grade teacher was starting a new lesson on multi-syllable words, she thought it would be a good idea to ask a few of the children examples of words with more that one syllable.
+Jane, Do you know any multi-syllable words?
+After some thought Jane proudly replied with Monday.
+Great Jane that has two syllables, Mon......day
+Does anyone know another word.
+I do, I do, me me me replied Johnny.
+Knowing Johnny's more mature sense of humor she picks Mike instead.
+Ok Mike, what is your word.
+Saturday. says, Mike.
+Great, that has three syllables.
+Not wanting to be outdone Johnny says \" I know a four syllable word, pick me.....\"
+Not thinking he can do any harm with a word that large the teacher reluctantly says, \"O.K. 
+Johnny what is your four syllable word?\"
+Johnny proudly says, \"Mas...tur...ba...tion.\"
+Shocked, the teacher, trying to retain her composure says, \"Wow, Johnny, four syllables, that certainly is a mouthful\"
+No Maam, your thinking of blow job, and that's only two syllables.\"",
+"The teacher wrote on the blackboard: \"I ain't had no fun in months.\" 
+Then asked the class, \"How should I correct this sentence?\"
+Little Johnny raised his had and replied, \"Get yourself a new boyfriend.\"",
+"While playing in the backyard, Little Johnny kills a honeybee. 
+His father sees him killing the honeybee and angrily says, \"No honey for you for one month!\"
+Later that afternoon, Johnny's dad catches him tearing the wings off a butterfly. 
+\"That's it! No butter for you for one month!\" says his dad.
+Later that evening as Johnny's mother cooks dinner, a cockroach run across the kitchen floor. 
+She jumps and stomps on it, and then looks up to find Little Johnny and her husband watching her.
+Little Johnny looks at his father and says, \"Are you going to tell her, Dad, or do you want me to?\"",
+"Little Johnny's father asked for report card.
+Johnny replied, \"I don't have it.\"
+\"Why not?\" His father asked.
+\"My friend just borrowed it. He wants to scare his parents.\"",
 "One day at the end of class, little Johnny's teacher asks the class to go home and think of a story to be concluded with the moral of that story. 
 The following day the teacher asks for the first volunteer to tell their story.
 Little Suzy raises her hand. 
