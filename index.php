@@ -70,7 +70,8 @@ $joke = "I was unable to find any jokes  of type $type.";
 switch ("$api")
 {
 case "json":
-echo json_encode($joke);
+header('Content-type: application/json');
+echo json_encode("joke = " . $joke);
 break;
 case "txt":
 case "text":
