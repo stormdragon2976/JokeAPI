@@ -73,7 +73,7 @@ case "json":
 // Set the header for json:
 header('Content-type: application/json');
 // Output joke in json format:
-echo json_encode("{\"joke\":" . $joke . "\"}");
+echo json_encode("{joke:" . $joke . "}");
 break;
 case "txt":
 case "text":
