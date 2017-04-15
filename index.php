@@ -72,8 +72,9 @@ switch ("$api")
 case "json":
 // Set the header for json:
 header('Content-type: application/json');
-// Output joke in json format:
-echo json_encode("{joke:" . $joke . "}");
+// Create array for joke output:
+$joke = array("joke" => $joke);
+echo json_encode($joke);
 break;
 case "txt":
 case "text":
