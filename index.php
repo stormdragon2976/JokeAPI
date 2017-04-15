@@ -88,6 +88,11 @@ echo nl2br($joke);
 ?>
 </p>
 <hr />
+<h2>API Usage</h2>
+<p>
+To call the api, simply specify the api in the url. For example:<br />
+curl -s &apos;<?php preg_replace("/[^a-z]\/:/", "", strtolower($_SERVER['SERVER_PROTOCOL'])) . $_SERVER['HTTP_HOST'] ?>?api=text&apos;<br />
+</p>
 <ul>
 <?php
 if (isset($gs))
