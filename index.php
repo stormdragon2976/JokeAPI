@@ -92,6 +92,16 @@ echo nl2br($joke);
 <p>
 To call the api, simply specify the api in the url. For example:<br />
 curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=text&apos;<br />
+Jokes can be returned in text, which may be abbreviated  as txt, json, or xml.
+</p>
+<p>
+You may also specify the type of joke to be returned. The keywords all or random will pick from all available joke files. Currently, this server has the following  joke files available:<br />
+<ul><?php
+foreach ($jokeFiles as $i)
+{
+echo "<li>" . substr($i, 0, -4) . "</li>";
+} ?>
+</ul>
 </p>
 <ul>
 <?php
