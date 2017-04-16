@@ -91,7 +91,7 @@ echo nl2br($joke);
 <h2>API Usage</h2>
 <p>
 To call the api, simply specify the api in the url. For example:<br />
-curl -s &apos;<?php echo preg_replace("/[^a-z]/", "", strtolower($_SERVER['SERVER_PROTOCOL'])) . "://" . $_SERVER['HTTP_HOST'] ?>?api=text&apos;<br />
+curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=text&apos;<br />
 </p>
 <ul>
 <?php
