@@ -103,6 +103,10 @@ foreach ($jokeFiles as $i)
 echo "<li>" . substr($i, 0, -4) . "</li>";
 } ?>
 </ul>
+<p>
+Here is an example where both the output and joke type are specified:<br />
+curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo $apiTypes[array_rand($apiTypes)] . "&amp;type=" . substr($jokeFiles[array_rand($jokeFiles)], 0, -4); ?>&apos;
+</p>
 <hr />
 <ul>
 <?php
