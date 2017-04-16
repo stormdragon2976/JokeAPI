@@ -12,7 +12,7 @@ $jokeList = array(
 "Your momma is so fat you feed on her junk",
 "Yo momma is so fat a truck hit her and she said, Hey who threw that rock?",
 "Yo momma is so fat when she fell in love, she broke it.",
-"Yo momma so fat when she saw a bus she said come back Twinkie",
+"Yo momma so fat when she saw a bus driving down the road she said come back Twinkie",
 "Yo momma so fat she stepped on the scale and it said one person at the time",
 "Yo momma so fat, her stomach gets home 15 minutes before she does.",
 "Yo momma is so fat her blood type is Ragu",
