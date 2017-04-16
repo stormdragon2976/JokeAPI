@@ -31,7 +31,7 @@ $faster = array(
 '"Put four fingers in!"',
 '"What a lover!"',
 '"Talk dirty, you pig!"',
-'\"The ceiling needs painting,"',
+'"The ceiling needs painting,"',
 '"Suck harder!"',
 '"The animals will hear!"',
 '"Not in public!"'
