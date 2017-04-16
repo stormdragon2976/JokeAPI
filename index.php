@@ -96,13 +96,14 @@ Jokes can be returned in text, which may be abbreviated  as txt, json, or xml.
 </p>
 <p>
 You may also specify the type of joke to be returned. The keywords all or random will pick from all available joke files. Currently, this server has the following  joke files available:<br />
+</p>
 <ul><?php
 foreach ($jokeFiles as $i)
 {
 echo "<li>" . substr($i, 0, -4) . "</li>";
 } ?>
 </ul>
-</p>
+<hr />
 <ul>
 <?php
 if (isset($gs))
