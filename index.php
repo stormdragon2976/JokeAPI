@@ -91,7 +91,7 @@ echo nl2br($joke);
 <h2>API Usage</h2>
 <p>
 To call the api, simply specify the api in the url. For example:<br />
-curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=text&apos;<br />
+curl -s &apos;<?php $apiTypes = array("json", "text", "txt", "xml");if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo $apiTypes[array_rand($apiTypes)]; ?>&apos;<br />
 Jokes can be returned in text, which may be abbreviated  as txt, json, or xml.
 </p>
 <p>
