@@ -37,7 +37,7 @@ if ($api == "false")
 <meta charset="UTF-8">
 <title><?php echo "$title"; ?></title>
 <meta name="description" content="<?php echo "$title"; ?>">
-meta name="keywords" content="humor, joke api, jokes, <?php
+<meta name="keywords" content="humor, joke api, jokes, <?php
 foreach ($jokeFiles as $i)
 {
 echo str_replace("_", " ", substr($i, 0, -4)) . ", ";
