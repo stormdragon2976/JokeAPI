@@ -44,6 +44,7 @@ echo str_replace("_", " ", substr($i, 0, -4)) . ", ";
 } ?> funny, api">
 <meta property="og:title" content="<?php echo "$title"; ?>" />
 <meta property="og:type" content="website" />
+<meta property="og:description" content="<?php echo "$title"; ?>" />
 </head>
 <body> 
 <h1>Categories</h1>
