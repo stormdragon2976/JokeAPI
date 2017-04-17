@@ -36,7 +36,7 @@ if ($api == "false")
 <head>
 <meta charset="UTF-8">
 <title><?php echo "$title"; ?></title>
-<meta name=description content=<?php echo "$title"; ?>">
+<meta name="description" content="<?php echo "$title"; ?>">
 </head>
 <body> 
 <h1>Categories</h1>
