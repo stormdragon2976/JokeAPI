@@ -42,6 +42,8 @@ foreach ($jokeFiles as $i)
 {
 echo str_replace("_", " ", substr($i, 0, -4)) . ", ";
 } ?> funny, api">
+<meta property="og:title" content="<?php echo "$title"; ?>" />
+<meta property="og:type" content="website" />
 </head>
 <body> 
 <h1>Categories</h1>
