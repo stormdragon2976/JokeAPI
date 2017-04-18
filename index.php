@@ -68,9 +68,9 @@ else
 if (($type == "all") || ($type == "random"))
 {
 // Run random joke file from the scripts directory 
-if (isset($_GET['EXCLUDE']))
+if (isset($_GET['exclude']))
 {
-$jokeFiles = array_diff($jokeFiles, explode(",", $_GET['EXCLUDE']));
+$jokeFiles = array_diff($jokeFiles, explode(",", $_GET['exclude']));
 }
 require_once ("scripts/" . $jokeFiles[array_rand($jokeFiles)]);
 }
