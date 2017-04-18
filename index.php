@@ -68,6 +68,10 @@ else
 if (($type == "all") || ($type == "random"))
 {
 // Run random joke file from the scripts directory 
+if (isset($_GET['EXCLUDE']))
+{
+$jokeFiles = array_diff($jokeFiles, explode(",", $_GET['EXCLUDE']));
+}
 require_once ("scripts/" . $jokeFiles[array_rand($jokeFiles)]);
 }
 else
@@ -115,6 +119,10 @@ echo "<li>" . substr($i, 0, -4) . "</li>";
 <p>
 Here is an example where both the output and joke type are specified:<br />
 curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo $apiTypes[array_rand($apiTypes)] . "&amp;type=" . substr($jokeFiles[array_rand($jokeFiles)], 0, -4); ?>&apos;
+</p>
+<p>
+To exclude joke files when type all or random are use, use the exclude option. Multiple files may be excluded, just separate them with a comma. Here is an example with both the sex and little_johnny scripts excluded:<br />
+curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo $apiTypes[array_rand($apiTypes)] . "&amp;type=" . substr($jokeFiles[array_rand($jokeFiles)], 0, -4); ?>&amp;exclude=sex,little_johnny&apos;
 </p>
 <hr />
 <ul>
