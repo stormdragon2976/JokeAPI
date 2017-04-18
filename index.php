@@ -122,7 +122,7 @@ curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PO
 </p>
 <p>
 To exclude joke files when type all or random are use, use the exclude option. Multiple files may be excluded, just separate them with a comma. Here is an example with both the sex and little_johnny scripts excluded:<br />
-curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo $apiTypes[array_rand($apiTypes)] . "&amp;type=" . substr($jokeFiles[array_rand($jokeFiles)], 0, -4); ?>&amp;exclude=sex,little_johnny&apos;
+curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo  "all&amp;type=" . substr($jokeFiles[array_rand($jokeFiles)], 0, -4); ?>&amp;exclude=sex,little_johnny&apos;
 </p>
 <hr />
 <ul>
