@@ -71,6 +71,7 @@ if (($type == "all") || ($type == "random"))
 if (($type = "all") || ($type == "random") && (isset($_GET['exclude'])))
 {
 $keys = str_replace(",", ".php,", $_GET['exclude']);
+echo "keys are " . $keys;
 $jokeFiles = array_diff($jokeFiles, explode(",", $keys));
 }
 require_once ("scripts/" . $jokeFiles[array_rand($jokeFiles)]);
