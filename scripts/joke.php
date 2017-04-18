@@ -1,4 +1,4 @@
-<?php
+	<?php
 $jokeList = array( 
 "How do fish get high?
 Seaweed.",
@@ -105,6 +105,7 @@ A minor B-flat!",
 It gets toad.",
 "What does a leper say before he farts?
 I don't know, but probably not 'pull my finger'.",
+"Confucius say, man who stand on toilet is high on pot.",
 "Two fish in a tank.
 One looks to the other and says 'Can you even drive this thing???'",
 "Did you hear about the guy whose whole left side was cut off?
@@ -136,6 +137,8 @@ Now his business is toast.",
 Because it's pointless!",
 "What do you get when you mix human dna with a goat's?
 Banned from the petting zoo.",
+"What's green and smells like pork?
+Kermit's finger.",
 "How many tickles does it take to tickle an octupus?
 Ten-tickles!", 
 "What is the difference between snowmen and snowwomen?
