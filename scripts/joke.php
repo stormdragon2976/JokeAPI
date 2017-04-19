@@ -129,6 +129,17 @@ He ate the pizza before it was cool.",
  He had locomotives",
 "I wondered why the baseball was getting bigger.
 Then it hit me.",
+"An elderly couple is enjoying a 50 year anniversary dinner together in a small tavern. The husband leans over and asks his wife, "Do you remember the first time we had sex together over fifty years a go? We went behind this tavern where you leaned against the fence and I made
+love to you."
+"Yes," she says, "I remember it well."
+"Ok," he says, "How about taking a stroll round there again and we can do it for old time's sake."
+"Oooooooh Charlie, you devil, that sounds like a good idea."
+There's a police officer sitting in the next booth listening to all this, and having a chuckle to himself. He thinks, "I've got to see these two old-timers having sex against a fence. I'll just keep an eye on them so there's no trouble." So he follows them. They walk haltingly along, leaning on each other for support, aided by walking sticks. Finally they
+get to the back of the tavern and make their way to the fence. The old lady lifts her skirt, takes her knickers down and the old man drops his trousers. She turns around and as she hangs on to the fence, the old man moves in.
+Suddenly they erupt into the most furious sex that the watching policeman has ever seen. They are bucking and jumping like eighteen-year-olds. This goes on for about forty minutes.
+She's yelling, "Ohhh, God!" He's hanging on to her hips for dear life. This is the most athletic sex imaginable. Finally, they both collapse panting on the ground. The policeman is amazed. He thinks he has learned something about life that he didn't know. After about half an hour of lying on the ground recovering, the old couple struggle to their feet and put their clothes back on. The Policeman, still watching thinks, that was truly amazing, he was going like a train. I've got to ask him what his secret is.
+As the couple passes, he says to them, "That was something else. You must have been having sex for about forty minutes. How do you manage it? You must have had a fantastic life together. Is there some sort of secret?"
+The old man says, "Fifty years ago that wasn't an electric fence."",
 "Why are ghosts bad liars?
 Because you can see right through them.",
 "My friend's bakery burned down last night.
@@ -141,11 +152,19 @@ Because it's pointless!",
 Banned from the petting zoo.",
 "What's green and smells like pork?
 Kermit's finger.",
-"How many tickles does it take to tickle an octupus?
+"How many tickles does it take to tickle an octopus?
 Ten-tickles!", 
 "What is the difference between snowmen and snowwomen?
 Snowballs.",
 "I used to be a banker, but I lost interest.",
+" A rabbi wanted to raise money for his synagogue and on being told there was a fortune in horse-racing, decided to purchase a horse and enter it in the races. However, at the local auction, the going price for a horse was so high that he ended up buying a donkey instead. He figured that since he had it, he might as well go ahead and enter it in the races. To his surprise, the donkey came in third. The next day the local paper carried this headline: RABBI'S ASS SHOWS.
+The rabbi was so pleased with the donkey that he entered it in the race again, and this time it won. The local paper read: RABBI'S ASS OUT FRONT.
+The Shul president was so upset with this kind of publicity that he ordered the rabbi not to enter the donkey in another race. Then next day, the local paper headline read: SHUL PRESIDENT SCRATCHES RABBI'S ASS
+This was too much for the Shul president, so he ordered the rabbi to get rid of the donkey. The rabbi decided to give it to the rebbetzin. The local paper, hearing of the news, posted the following headline the next day: REBBETZIN HAS BEST ASS IN TOWN.
+The Shul president fainted. He informed the rebbetzin that she would have to get rid of the donkey, so she sold it to a farmer for ten dollars. The next day, the paper read: REBBETZIN SELLS ASS FOR $10.
+This was too much for the Shul president, so he ordered the rebbetzin to buy back the donkey and lead it to the plains where it could run wild.
+Headlines read: REBBETZIN ANNOUNCES HER ASS IS WILD AND FREE.
+The Shul president was buried the next day",
 "How do you make holy water?
 Boil the hell out of it.",
 "Why are pirates called pirates?
