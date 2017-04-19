@@ -129,17 +129,16 @@ He ate the pizza before it was cool.",
  He had locomotives",
 "I wondered why the baseball was getting bigger.
 Then it hit me.",
-"An elderly couple is enjoying a 50 year anniversary dinner together in a small tavern. The husband leans over and asks his wife, "Do you remember the first time we had sex together over fifty years a go? We went behind this tavern where you leaned against the fence and I made
-love to you."
-"Yes," she says, "I remember it well."
-"Ok," he says, "How about taking a stroll round there again and we can do it for old time's sake."
-"Oooooooh Charlie, you devil, that sounds like a good idea."
-There's a police officer sitting in the next booth listening to all this, and having a chuckle to himself. He thinks, "I've got to see these two old-timers having sex against a fence. I'll just keep an eye on them so there's no trouble." So he follows them. They walk haltingly along, leaning on each other for support, aided by walking sticks. Finally they
+"An elderly couple is enjoying a 50 year anniversary dinner together in a small tavern. The husband leans over and asks his wife, \"Do you remember the first time we had sex together over fifty years a go? We went behind this tavern where you leaned against the fence and I made love to you.\"
+\"Yes,\" she says, \"I remember it well.\"
+\"Ok,\" he says, \"How about taking a stroll round there again and we can do it for old time's sake.\"
+\"Oooooooh Charlie, you devil, that sounds like a good idea.\"
+There's a police officer sitting in the next booth listening to all this, and having a chuckle to himself. He thinks, \"I've got to see these two old-timers having sex against a fence. I'll just keep an eye on them so there's no trouble.\" So he follows them. They walk haltingly along, leaning on each other for support, aided by walking sticks. Finally they
 get to the back of the tavern and make their way to the fence. The old lady lifts her skirt, takes her knickers down and the old man drops his trousers. She turns around and as she hangs on to the fence, the old man moves in.
 Suddenly they erupt into the most furious sex that the watching policeman has ever seen. They are bucking and jumping like eighteen-year-olds. This goes on for about forty minutes.
-She's yelling, "Ohhh, God!" He's hanging on to her hips for dear life. This is the most athletic sex imaginable. Finally, they both collapse panting on the ground. The policeman is amazed. He thinks he has learned something about life that he didn't know. After about half an hour of lying on the ground recovering, the old couple struggle to their feet and put their clothes back on. The Policeman, still watching thinks, that was truly amazing, he was going like a train. I've got to ask him what his secret is.
-As the couple passes, he says to them, "That was something else. You must have been having sex for about forty minutes. How do you manage it? You must have had a fantastic life together. Is there some sort of secret?"
-The old man says, "Fifty years ago that wasn't an electric fence."",
+She's yelling, \"Ohhh, God!\" He's hanging on to her hips for dear life. This is the most athletic sex imaginable. Finally, they both collapse panting on the ground. The policeman is amazed. He thinks he has learned something about life that he didn't know. After about half an hour of lying on the ground recovering, the old couple struggle to their feet and put their clothes back on. The Policeman, still watching thinks, that was truly amazing, he was going like a train. I've got to ask him what his secret is.
+As the couple passes, he says to them, \"That was something else. You must have been having sex for about forty minutes. How do you manage it? You must have had a fantastic life together. Is there some sort of secret?\"
+The old man says, \"Fifty years ago that wasn't an electric fence.\"",
 "Why are ghosts bad liars?
 Because you can see right through them.",
 "My friend's bakery burned down last night.
