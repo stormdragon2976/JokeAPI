@@ -45,6 +45,8 @@ The pygmy tribe is a bunch of   cunning little runts.",
 'Confucius say, "Man who pee through screen strain himself."',
 'Confucius say, "Man who enter plain sideways going to Bangkok"',
 "Confucius say, \"Man who fishes in other man's well often catch crabs.\"",
+"How do you reuse a condom?
+Shake the fuck out of it!",
 'Confucius say, "Man who drinks to steady nerves, may find self too steady to move."',
 'Confucius say, "Virginity like bubble: one prick, all gone."',
 'Confucius say, "It take many nails to build crib but only one screw to fill it."',
