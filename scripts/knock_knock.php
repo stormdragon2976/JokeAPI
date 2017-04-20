@@ -2,7 +2,7 @@
 $knock = array(
 "orange" => "Orange you glad I didn't say banana?",
 "scold" => "Scold enough out here to go ice skating!",
-"smellma" => "Smellma poo!",
+"smellmop" => "Ewwww gross!",
 "owls go" => "Thats right! Owls go who!",
 "claire" => "Claire the way, I'm coming in!",
 "dwayne" => "Dwayne the bathtub, I'm dwowning!",
