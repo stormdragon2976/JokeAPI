@@ -15,6 +15,11 @@ if (isset($_GET['type']))
 {
 $type = addslashes($_GET['type']);
 }
+// If exclude is set, it implies type = all
+if (isset($_GET['exclude']))
+{
+$type = "all";
+}
 //Make an array to hold file list so we can generate links for joke categories.
 $jokeFiles = array();
 //Create a handler for the directory.
@@ -68,7 +73,7 @@ else
 if (($type == "all") || ($type == "random"))
 {
 // Run random joke file from the scripts directory 
-if (($type = "all") || ($type == "random") && (isset($_GET['exclude'])))
+if (isset($_GET['exclude']))
 {
 $keys = str_replace(",", ".php,", $_GET['exclude']) . ".php";
 $jokeFiles = array_diff($jokeFiles, explode(",", $keys));
@@ -122,8 +127,8 @@ Here is an example where both the output and joke type are specified:<br />
 curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo $apiTypes[array_rand($apiTypes)] . "&amp;type=" . substr($jokeFiles[array_rand($jokeFiles)], 0, -4); ?>&apos;
 </p>
 <p>
-To exclude joke files when type all or random are use, use the exclude option. Multiple files may be excluded, just separate them with a comma. Here is an example with both the sex and little_johnny scripts excluded:<br />
-curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo  "json&amp;type=all"; ?>&amp;exclude=sex,little_johnny&apos;
+To exclude joke files, use the exclude option. Multiple files may be excluded, just separate them with a comma. Here is an example:<br />
+curl -s &apos;<?php if ((isset($_SERVER['SERVER_PORT'])) && ($_SERVER['SERVER_PORT'] == 443)) { echo "https://"; } else { echo "http://"; } echo $_SERVER['HTTP_HOST'] ?>?api=<?php echo $apiTypes[array_rand($apiTypes)] . "&amp;exclude=" . substr($jokeFiles[array_rand($jokeFiles)], 0, -4) . "," . substr($jokeFiles[array_rand($jokeFiles)], 0, -4); ?>&apos;
 </p>
 <hr />
 <ul>
