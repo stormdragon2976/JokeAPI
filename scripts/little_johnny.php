@@ -1,5 +1,10 @@
 <?php
 $jokeList = array(
+"Little Johnny was sitting in class one day. All of a sudden, he needed to go
+to the bathroom. He yelled out, \"Miss Jones, I need to take a piss!!!\" The
+teacher replied, \"Now, Johnny, that is NOT the proper word to use in this situation. The correct word you want to use is 'urinate'. Please use the
+word 'ur-i-nate' in a sentence correctly, and I will allow you to go.\"
+Little Johnny, thinks for a bit, and then says, \"You're an eight, but if your tits were bigger, you'd be a TEN!\"",
 "Little April was not the best student in Sunday school.
 Usually she slept through the class.
 One day the teacher called on her while she was napping, \"Tell me, April, who created the universe?\"
