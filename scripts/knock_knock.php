@@ -11,6 +11,7 @@ $knock = array(
 "willis" => "Willis dick fit in your mouth?",
 "radio" => "Radio not, here I come!",
 "savior" => "Savior breath and open the door!",
+"woo" => "I'm glad to see you too!",
 "henrietta" => "Henrietta worm that was in his apple!",
 "cd's" => "I want to Cd's nuts on your chin!",
 "I am" => "You mean you don't know who you are?",
