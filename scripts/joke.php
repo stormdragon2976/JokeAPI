@@ -40,6 +40,8 @@ The pygmy tribe is a bunch of   cunning little runts.",
 'Confucius say, "Man who sleep on bed of nails is holy man."',
 'Confucius say, "Man who run behind car get exhausted."',
 'Confucius say, "Woman who rides bicycle peddles ass all over town."',
+"Two soldiers were in a tank.
+One looks at the other and says, \"glug glug\".",
 'Confucius say, "Man who cooks carrots and peas in the same pot is very unhygienic."',
 'Confucius say, "Woman who fly upside down have hairy crack up."',
 'Confucius say, "Man who pee through screen strain himself."',
