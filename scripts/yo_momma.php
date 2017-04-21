@@ -4,6 +4,7 @@ $jokeList = array(
 "Yo momma is so fat when she was walking on the street her belly button was sticking out everybody started saying, hey look a third nipple!",
 "Yo momma so fat when she went to McDonalds they offered her a group discount",
 "Yo momma so fat, when she entered a fat contest, she came in first, second, and third.",
+"Yo momma so dumb she took a spoon to the superbowl.",
 "Your momma so fat she doesn't need the internet; she's already world wide",
 "Yo momma so fat God could not even lift her spirit",
 "Yo momma so fat she got a parking ticket for standing at a crosswalk",
