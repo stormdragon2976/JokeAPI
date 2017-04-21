@@ -68,7 +68,7 @@ $jokeList = array(
 "Yo momma so fat when she fell no one laughed but the ground started cracking up",
 "Yo momma so fat when she goes camping the bears hide their food",
 "Yo momma so fat when she stepped on the scale it came up with my phone number",
-"Yo momma so dumb someone said it was cold outside and she ran out with a bowl and spoon!",
+"Yo momma so dumb someone said it was chilly outside and she ran out with a bowl and spoon!",
 "Yo Momma so fat her IUD picks up radio free Europe",
 "Yo momma is so fat, her diet pills say M & M",
 "Yo mommas so fat when she went to her wedding the people sang the song \"here comes the bride so fat and wide\"",
