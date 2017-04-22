@@ -107,6 +107,8 @@ The Boney-Part!",
 A minor B-flat!",
 "What happens to a frog's car when it breaks down?
 It gets toad.",
+"Why don't blind people go sky diving?
+It scares the dogs!",
 "What does a leper say before he farts?
 I don't know, but probably not 'pull my finger'.",
 "Confucius say, man who stand on toilet is high on pot.",
