@@ -8,6 +8,17 @@ Poultry in moton.",
 It was having window panes.",
 'Confucius say, "Man who smoke pot will choke on handle."',
 'Confucius say, "Man who lay woman on ground get peace on earth."',
+"A man just moved to the country on a small farm. He went around to meet the neighbors and to his surprise, they started giving him welcoming gifts. The first neighbor gave him a rooster.
+\"Thank you for the rooster!\", exclaimed the man.
+\"You're quite welcome,\", the neighbor replied, \"but in these parts, we call those cocks\".
+The next neighbor gave the man a hen.
+\"Thanks for the hen!\", exclaimed the man.
+\"You're quite welcome,\" the neighbor replied, \"but in these parts, we call that a pullet\".
+His third neighbor was even more giving than the other two. He presented the man with a donkey.
+\"Tthanks for the donkey!\" the man exclaimed.
+\"You're very welcome,\" the neighbor replies, \"but in these parts, that's called an ass. There is one small thing about this ass in particular, and that is, sometimes he will stop and refuse to move. The only way you can get him moving again if this happens is to scratch him behind the ears\".
+The man started the long journey home. He was about three quarters of the way there when suddenly, the donkey stopped walking. It refused to budge even one inch. The man was starting to despair of ever getting home, because his arms were full what with the hen and rooster and all. But just as the man started to give up hope, a beautiful woman walked down the road toward him.
+Over joyed, the man called out to her, \"Howdy mam! Can you hold my cock and pullet while I scratch my ass?\"",
 'Confucius say, "Elevator smell different to a midget."',
 "The value of a #2 pencil in a Catholic education.
 Little Susie was not the best student in Catholic School . Usually she slept through the class.
