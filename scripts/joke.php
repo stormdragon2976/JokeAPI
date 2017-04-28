@@ -49,6 +49,8 @@ The pygmy tribe is a bunch of   cunning little runts.",
 'Confucius say, "Man who put cream in tart not always baker."',
 'Confucius say, "A hand in the bush is worth two on the bird."',
 'Confucius say, "Man who sleep on bed of nails is holy man."',
+"I tried sniffing coke once...
+The icecubes got stuck in my nose.",
 'Confucius say, "Man who run behind car get exhausted."',
 'Confucius say, "Woman who rides bicycle peddles ass all over town."',
 "Two soldiers were in a tank.
@@ -56,6 +58,8 @@ One looks at the other and says, \"glug glug\".",
 'Confucius say, "Man who cooks carrots and peas in the same pot is very unhygienic."',
 'Confucius say, "Woman who fly upside down have hairy crack up."',
 'Confucius say, "Man who pee through screen strain himself."',
+"What's the hardest part about eating vegetables?
+Getting them out of their wheelchair.",
 'Confucius say, "Man who enter plain sideways going to Bangkok"',
 "Confucius say, \"Man who fishes in other man's well often catch crabs.\"",
 "How do you reuse a condom?
