@@ -37,6 +37,7 @@ The Nun asked her a third question...'What did Eve say to Adam after she had her
 Again, Johnny came to the rescue. This time Susie jumped up and shouted, 'If you stick that damn thing in me one more time, I'll break it in half!'
 *The nun fainted.*",
 'Confucius say, "Man who jump off cliff jump to conclusion."',
+"Puns about communism aren't funny unless everyone gets them.",
 'Confucius say, "Man who fart in church sit in own pew."',
 "What is the difference between erotic and kinky?
 Erotic is using a feather.... kinky is using the whole  chicken.",
@@ -47,10 +48,21 @@ He barley hops!",
 "What's the difference between a pygmy tribe and a high school girls track team?
 The pygmy tribe is a bunch of   cunning little runts.",
 'Confucius say, "Wise man does not play leapfrog with unicorn."',
+"A blond lady was sick of everyone saying blonds are dumb, so she decided to prove them wrong. She memorized the capitol for each state. The next day, as a  coworker started telling a blond joke, she interupted,
+\"Stop that,\" she said, \"we are just as smart as anyone else, and I'll prove it. Ask me what the capitol of any state is and I will tell you.\"
+\"Ok,\" the coworker replied, \"How about Alabama?\"
+\"A\" she exclaimed.",
 'Confucius say, "House without toilet is uncanny."',
 "Did you hear about the constipated accountant?
 He couldn't budget!",
 'Confucius say, "Man who put cream in tart not always baker."',
+"A little girl was riding her bike when a cop came up to her.
+\"Did Santa bring you that bike?\" he asked.
+\"Yes,\" she replied.
+\"Well next time, tell him to bring you one with reflectors,\" the cop said as he handed her a ticket.
+\"did Santa bring you that horse?\" the little girl asked the cop.
+Chuckling, the cop replied, \"Yes\".
+\"Well,\" the girl responded, \"Next time tell him the dick goes under the horse, not on its back.\"",
 'Confucius say, "A hand in the bush is worth two on the bird."',
 'Confucius say, "Man who sleep on bed of nails is holy man."',
 "I tried sniffing coke once...
