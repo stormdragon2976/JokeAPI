@@ -48,6 +48,8 @@ He barley hops!",
 The pygmy tribe is a bunch of   cunning little runts.",
 'Confucius say, "Wise man does not play leapfrog with unicorn."',
 'Confucius say, "House without toilet is uncanny."',
+"Did you hear about the constipated accountant?
+He couldn't budget!",
 'Confucius say, "Man who put cream in tart not always baker."',
 'Confucius say, "A hand in the bush is worth two on the bird."',
 'Confucius say, "Man who sleep on bed of nails is holy man."',
