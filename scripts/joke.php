@@ -7,6 +7,8 @@ Poultry in moton.",
 "Why did the house go to the doctor?
 It was having window panes.",
 'Confucius say, "Man who smoke pot will choke on handle."',
+"Did you hear about the constipated mathematician?
+He worked it out with a pencil.",
 'Confucius say, "Man who lay woman on ground get peace on earth."',
 "A man just moved to the country on a small farm. He went around to meet the neighbors and to his surprise, they started giving him welcoming gifts. The first neighbor gave him a rooster.
 \"Thank you for the rooster!\", exclaimed the man.
