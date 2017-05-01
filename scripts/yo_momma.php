@@ -23,7 +23,7 @@ $jokeList = array(
 "Yo momma so fat that when she was born, she gave the hospital stretch marks.",
 "Yo momma is so fat people thought her butt hole was a black hole.",
 "Yo momma is so fat every time she tries to hide she is hiding that object that she is trying to hide by",
-"Yo momma so fat she's got more Chins than a Hong Kong phone book.",
+"Yo momma so fat she's got more Chins than a Chinese phone book.",
 "Yo momma so fat she has more rolls than a bakery",
 "Yo momma so fat when she goes swimming the whales start singing We are Family",
 "Yo momma is so fat that on halloween she says trick or meatloaf",
