@@ -64,6 +64,8 @@ He couldn't budget!",
 Chuckling, the cop replied, \"Yes\".
 \"Well,\" the girl responded, \"Next time tell him the dick goes under the horse, not on its back.\"",
 'Confucius say, "A hand in the bush is worth two on the bird."',
+"Why was the homosexual fired from the sperm bank?
+He was caught drinking on the job.",
 'Confucius say, "Man who sleep on bed of nails is holy man."',
 "I tried sniffing coke once...
 The icecubes got stuck in my nose.",
