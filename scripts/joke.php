@@ -70,6 +70,8 @@ He was caught drinking on the job.",
 "I tried sniffing coke once...
 The icecubes got stuck in my nose.",
 'Confucius say, "Man who run behind car get exhausted."',
+"What happens when you reverse the Energizer Bunny's batteries?
+He keeps coming and coming and coming...",
 'Confucius say, "Woman who rides bicycle peddles ass all over town."',
 "Two soldiers were in a tank.
 One looks at the other and says, \"glug glug\".",
