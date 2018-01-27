@@ -4,6 +4,23 @@ $jokeList = array(
 Seaweed.",
 "What do you call a chicken crossing the road?
 Poultry in moton.",
+"Knock knock!
+Who's there?
+Banana.
+Banana who?
+Banana split!
+                                                                                
+Knock knock!
+Who's there?
+Banana.
+Banana who?
+Banana split!
+                                                                                
+Knock knock!
+Who's there?
+Orange.
+Orange who?
+Orange you glad I didn't say banana again?",
 "Why did the house go to the doctor?
 It was having window panes.",
 'Confucius say, "Man who smoke pot will choke on handle."',
