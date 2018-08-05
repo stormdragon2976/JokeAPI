@@ -263,6 +263,7 @@ Because they have their own scales.",
 He felt his presents.",
 "I want a job cleaning mirrors.
 It's something I could really see myself doing.",
+"Eve had just been fashioned from Adam's rib and God said, \"Now, be fruitful and multiply.\" \"How do I do that?\" asked Adam. \"Just take Eve into the bushes there. I have placed the proper instincts within you and you will know what to do.\" Off they went into the bushes and, within a minute, Adam was back. \"Lord,\" he said, \"what's a headache?\""
 );
 // Set the joke variable to a random joke:
 $joke = $jokeList[array_rand($jokeList)];
